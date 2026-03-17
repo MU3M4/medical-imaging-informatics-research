@@ -26,5 +26,5 @@ This repository serves as a professional portfolio highlighting my expertise at 
 * **Context:** Utilizing an IT/Cybersecurity mindset to ensure the "ground truth" of digital assets—preventing systemic errors in AI learning phases.
 
 ## Education & Certifications
-* **Academic Background:** University of Texas at Dallas (UTD).
+* **Academic Background:** Jomo Kenyatta University of Agriculture and Technology.
 * **Specializations:** IT Networking, Cybersecurity, and Professional Research Writing.
